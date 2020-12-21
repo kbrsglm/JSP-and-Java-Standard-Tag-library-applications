@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arabalar>
+<araba>
+<marka>Mersedes</marka>
+<model>E serisinden</model>
+<renk>Gri</renk>
+</araba>
+<araba>
+<marka>Anadolu</marka>
+<model>otosan 500</model>
+<renk>Beyaz</renk>
+</araba>
+<araba>
+<marka>BMW</marka>
+<model>6  serisinden</model>
+<renk>Siyah</renk>
+</araba>
+<araba>
+<marka>TOYODO</marka>
+<model>Corollo</model>
+<renk>mavi</renk>
+</araba>
+</arabalar>
